@@ -1,7 +1,23 @@
-p {
-    /* background-color:aquamarine; */
+div{
+    /*margin-top: 9%; */
+    text-align: center;
     color:brown;
-    padding:5px:
-    border-width:2px;
-    border-color:#000000:
+}
+
+body{
+        background-image: url('../img/shutterstock_673141633.jpg');
+
+}
+p{
+    color:white;
+    font-family: "Lucida Console", Courier, monospace;
+}
+
+td{
+    border:2px double black;
+}
+
+table{
+    margin:auto;
+    padding-top:10%;
 }
